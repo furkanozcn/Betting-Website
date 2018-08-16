@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+.iletisim{
+color:#000;
+}
+body{text-align:center;/*yatay*/
+padding-top: 200px;/*dikey*/
+padding-bottom:200px;/*dikey*/
+
+}
